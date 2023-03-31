@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @kayla-jackson
-- 👀 I’m interested in all things data analysis, science communication, and ethical data sharing
-- 🌱 I’m currently learning how to build tools for RNA-seq data
 - 📫 How to reach me: kaylajac [at] caltech [dot] edu
 
 <!---
